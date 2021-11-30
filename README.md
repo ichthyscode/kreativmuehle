@@ -11,3 +11,10 @@ No rules at all! Just start.
 
 Used Framework and programming language:
 Vaadin + Java
+
+
+Goals:
+
+* becoming confident in Java
+* share the code & experience with others
+
