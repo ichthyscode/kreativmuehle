@@ -7,3 +7,7 @@ Be crazy!
 
 First rule:
 No rules at all! Just start.
+
+
+Used Framework and programming language:
+Vaadin + Java
