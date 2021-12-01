@@ -9,12 +9,8 @@ First rule:
 No rules at all! Just start.
 
 
-Used Framework and programming language:
-Vaadin + Java
-
-
 Goals:
 
-* becoming confident in Java
+* becoming confident in programming
 * share the code & experience with others
 
